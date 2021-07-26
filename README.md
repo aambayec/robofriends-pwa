@@ -12,7 +12,9 @@ To run the project:
 
 ```shell
 npm i --save-dev enzyme enzyme-adapter-react-16
-yarn add --dev react-test-renderer
+npm i --save-dev react-test-renderer
+npm i --save-dev enzyme-to-json
+npm i --save-dev redux-mock-store
 
 ```
 

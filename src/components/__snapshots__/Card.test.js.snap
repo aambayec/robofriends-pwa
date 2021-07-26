@@ -2,11 +2,11 @@
 
 exports[`expect to render Card component 1`] = `
 <div
-  className="tc grow bg-light-green br3 pa3 ma2 digb bw2 shadow-5"
+  className="tc grow bg-light-green br3 pa3 ma2 dib bw2 shadow-5"
 >
   <img
-    alt="robofts"
-    src="https://robohasdsfh.org/undefined?size=200x200"
+    alt="robots"
+    src="https://robohash.org/undefined?size=200x200"
   />
   <div>
     <h2 />
